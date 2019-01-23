@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "William Attache, A Step into the Passion, Launches Site"
+title: "Times series forcasting : Seasonal ARIMA vs Neural Networks"
 date: 2019-01-23
 ---
 
-First try, first post. Nice ! :)
+In this article, we will try to compare the way Seasonal ARIMA models and Neural Networks achieve time series forecasting.
