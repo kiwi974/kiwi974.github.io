@@ -1,0 +1,3 @@
+name : William Attache, A Step Into the Passion
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
